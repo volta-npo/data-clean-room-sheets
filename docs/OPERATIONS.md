@@ -10,7 +10,7 @@ Spreadsheet templates for cleaning small-business data before any automation or 
 2. Attach evidence in the evidence locker.
 3. Complete the v1 workbench: Data Cleaning Lab.
 4. Resolve readiness warnings.
-5. Certify v3 gates only with real project evidence.
+5. Certify release gates only with real project evidence.
 6. Export JSON, CSV, Markdown, and print packets for the project folder.
 
 ## Domain outputs
